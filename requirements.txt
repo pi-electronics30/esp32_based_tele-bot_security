@@ -1,0 +1,13 @@
+# ESP32-CAM + PIR + Telegram Bot Requirements (Arduino IDE)
+
+# Board Package:
+ESP32 Board Package by Espressif Systems
+
+# Required Libraries:
+UniversalTelegramBot by Brian Lough
+ArduinoJson by Benoit Blanchon
+
+# Built-in ESP32 Libraries (Already Included):
+WiFi.h
+WiFiClientSecure.h
+esp_camera.h
